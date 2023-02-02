@@ -13,6 +13,7 @@
 <body>
 <div class="time">
     <time></time>
+
     <label>Seconds left until the sun dies</label>
 </div>
 
