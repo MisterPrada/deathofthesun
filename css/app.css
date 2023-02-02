@@ -9,3 +9,7 @@
 .time time{
     font-size: 8vw;
 }
+
+.time label{
+    float: right;
+}
